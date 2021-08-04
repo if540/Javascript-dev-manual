@@ -25,8 +25,12 @@ git push origin <分支名稱>
 
 # git pull 取回
 git pull origin master
+
+# cherry-pick 撿回某 commit 放到暫存不直接 commit
+git cherry-pick 6a498ec --no-commit
 ```
 
 GIT 學習文章
 
 - [遠端數據庫託管與操作](https://awdr74100.github.io/2020-04-18-git-remote/)
+- [cherry-pick 撿回某 commit 放到暫存不直接 commit](https://gitbook.tw/chapters/faq/cherry-pick.html)
