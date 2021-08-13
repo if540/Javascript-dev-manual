@@ -1,6 +1,6 @@
 # Webpack 5.x-2-5-Optimization
 
-### `optimization.moduleIds`
+### `optimization.moduleIds` [:book:](https://webpack.js.org/configuration/optimization/#optimizationmoduleids)
 
 ### `optimization.chunkIds` [:book:](https://webpack.js.org/configuration/optimization/#optimizationchunkids)
 
