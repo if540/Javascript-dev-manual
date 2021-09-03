@@ -6,7 +6,8 @@ Javascript 開發手冊
 ## GIT 版控
 
 - git remote update -p [同步遠端分支](https://zlargon.gitbooks.io/git-tutorial/content/remote/delete_branch.html)，並且移除過時的遠端分支
-- git pull origin master 把 master 的內容更新到所在分支上
+- git pull origin master 把遠端的 master 內容更新到所在分支上
+- git pull . master 把本機的 master 內容更新到所在分支上
 
 ```shell
 # gitlab 載回分支
