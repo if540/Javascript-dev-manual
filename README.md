@@ -36,6 +36,7 @@ GIT 學習文章
 - [遠端數據庫託管與操作](https://awdr74100.github.io/2020-04-18-git-remote/)
 - [cherry-pick 撿回某 commit 放到暫存不直接 commit](https://gitbook.tw/chapters/faq/cherry-pick.html)
 - [Git衝突：commit your changes or stash them before you can merge.](https://blog.csdn.net/liuchunming033/article/details/45368237)
+- [cherry-pick 假設我們在branch cr1 上開發了好幾個功能，要先上前面部分功能，某些不需要](https://ithelp.ithome.com.tw/articles/10187976)
 
 ### 正規表達式
 
