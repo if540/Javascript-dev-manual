@@ -36,3 +36,10 @@ GIT 學習文章
 - [遠端數據庫託管與操作](https://awdr74100.github.io/2020-04-18-git-remote/)
 - [cherry-pick 撿回某 commit 放到暫存不直接 commit](https://gitbook.tw/chapters/faq/cherry-pick.html)
 - [Git衝突：commit your changes or stash them before you can merge.](https://blog.csdn.net/liuchunming033/article/details/45368237)
+
+### 正規表達式
+
+```js
+// 排除關鍵字 json
+/\.js(?!on)|\.css$/
+```
