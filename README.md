@@ -44,3 +44,9 @@ GIT 學習文章
 // 排除關鍵字 json
 /\.js(?!on)|\.css$/
 ```
+
+### test
+
+```shell
+yarn add --dev jest @types/jest
+```
