@@ -70,3 +70,7 @@ module.exports = {
   ],
 };
 ```
+
+環境設定參考:
+
+- [jest build test env](https://titangene.github.io/article/jest-build-test-env.html)
