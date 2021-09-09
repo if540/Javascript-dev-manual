@@ -50,3 +50,23 @@ GIT 學習文章
 ```shell
 yarn add --dev jest @types/jest
 ```
+
+```shell
+yarn add -D babel-jest @babel/core @babel/preset-env
+```
+
+```js
+// babel.config.js
+module.exports = {
+  presets: [
+    [
+      '@babel/preset-env',
+      {
+        targets: {
+          node: 'current',
+        },
+      },
+    ],
+  ],
+};
+```
