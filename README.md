@@ -3,6 +3,8 @@ Javascript 開發手冊
 
 > 不要問我標準答案是什麼，過程中有問題會跟你互動。 - 川升 總經理
 
+[30secondsofcode](https://www.30secondsofcode.org/)
+
 ## GIT 版控
 
 - git remote update -p [同步遠端分支](https://zlargon.gitbooks.io/git-tutorial/content/remote/delete_branch.html)，並且移除過時的遠端分支
