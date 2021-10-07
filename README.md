@@ -7,6 +7,8 @@ Javascript 開發手冊
 
 [Flexbox佈局中不為人知的細節](https://juejin.cn/post/6938292463605907492)
 
+[JAMstack 到底是什麼巫術？](https://ithelp.ithome.com.tw/articles/10235208)
+
 ## GIT 版控
 
 - git remote update -p [同步遠端分支](https://zlargon.gitbooks.io/git-tutorial/content/remote/delete_branch.html)，並且移除過時的遠端分支
