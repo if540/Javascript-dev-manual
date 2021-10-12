@@ -9,6 +9,8 @@ Javascript 開發手冊
 
 [JAMstack 到底是什麼巫術？](https://ithelp.ithome.com.tw/articles/10235208)
 
+[Flex/Grid Layout Modules](https://blog.hinablue.me/viewport-the-css-device-adaptation/)
+
 ## GIT 版控
 
 - git remote update -p [同步遠端分支](https://zlargon.gitbooks.io/git-tutorial/content/remote/delete_branch.html)，並且移除過時的遠端分支
