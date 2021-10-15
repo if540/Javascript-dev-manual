@@ -23,6 +23,7 @@ Javascript 開發手冊
 
 ## GIT 版控
 
+- git merge [分支名] --no-ff [Day 13 - 你的就是我的 再談 git merge](https://ithelp.ithome.com.tw/articles/10222637)
 - git remote update -p [同步遠端分支](https://zlargon.gitbooks.io/git-tutorial/content/remote/delete_branch.html)，並且移除過時的遠端分支
 - git pull origin master 把遠端的 master 內容更新到所在分支上
 - git pull . master 把本機的 master 內容更新到所在分支上
