@@ -19,6 +19,8 @@ Javascript 開發手冊
 
 [盆栽瀏覽器](https://bonsaibrowser.com/)
 
+[javascript-make-iterable](https://www.30secondsofcode.org/articles/s/javascript-make-iterable)
+
 ## GIT 版控
 
 - git remote update -p [同步遠端分支](https://zlargon.gitbooks.io/git-tutorial/content/remote/delete_branch.html)，並且移除過時的遠端分支
