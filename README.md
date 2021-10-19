@@ -21,6 +21,8 @@ Javascript 開發手冊
 
 [javascript-make-iterable](https://www.30secondsofcode.org/articles/s/javascript-make-iterable)
 
+[採用 TypeScript 前你該考慮的十件事 | Jeremy Lu](https://youtu.be/EEdd8zov4-w?t=861) - xstate.js
+
 ## GIT 版控
 
 - git merge [分支名] --no-ff [Day 13 - 你的就是我的 再談 git merge](https://ithelp.ithome.com.tw/articles/10222637)
