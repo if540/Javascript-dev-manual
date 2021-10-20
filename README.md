@@ -25,6 +25,8 @@ Javascript 開發手冊
 
 [Awesome-WebAssembly-Applications](https://github.com/mcuking/Awesome-WebAssembly-Applications)
 
+[Learn Responsive Sizing with these 4 Simple Concepts](https://www.youtube.com/watch?v=j-tiO0gadeg)
+
 ## GIT 版控
 
 - git merge [分支名] --no-ff [Day 13 - 你的就是我的 再談 git merge](https://ithelp.ithome.com.tw/articles/10222637)
