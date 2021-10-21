@@ -31,6 +31,8 @@ Javascript 開發手冊
 
 [netlify cms](https://app.netlify.com/)
 
+[i18next](https://www.i18next.com/)
+
 ## GIT 版控
 
 - git merge [分支名] --no-ff [Day 13 - 你的就是我的 再談 git merge](https://ithelp.ithome.com.tw/articles/10222637)
