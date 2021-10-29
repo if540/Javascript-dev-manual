@@ -65,6 +65,7 @@ git cherry-pick 6a498ec --no-commit
 
 ```shell
 # 比較不同分支間的檔案差異
+# git diff <branch1> <branch2> -- <file>
 git diff master dev -- file/path
 
 # 查找完整路徑
@@ -77,6 +78,7 @@ GIT 學習文章
 - [cherry-pick 撿回某 commit 放到暫存不直接 commit](https://gitbook.tw/chapters/faq/cherry-pick.html)
 - [Git衝突：commit your changes or stash them before you can merge.](https://blog.csdn.net/liuchunming033/article/details/45368237)
 - [cherry-pick 假設我們在branch cr1 上開發了好幾個功能，要先上前面部分功能，某些不需要](https://ithelp.ithome.com.tw/articles/10187976)
+- [Git 比較不同分支間的檔案差異 diff files in two branches](https://matthung0807.blogspot.com/2019/11/git-diff-files-in-two-branches.html)
 
 ### 正規表達式
 
