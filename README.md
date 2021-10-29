@@ -63,6 +63,14 @@ git pull origin master
 git cherry-pick 6a498ec --no-commit
 ```
 
+```shell
+# 比較不同分支間的檔案差異
+git diff master dev -- file/path
+
+# 查找完整路徑
+git ls-files
+```
+
 GIT 學習文章
 
 - [遠端數據庫託管與操作](https://awdr74100.github.io/2020-04-18-git-remote/)
