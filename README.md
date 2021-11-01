@@ -79,6 +79,7 @@ GIT 學習文章
 - [Git衝突：commit your changes or stash them before you can merge.](https://blog.csdn.net/liuchunming033/article/details/45368237)
 - [cherry-pick 假設我們在branch cr1 上開發了好幾個功能，要先上前面部分功能，某些不需要](https://ithelp.ithome.com.tw/articles/10187976)
 - [Git 比較不同分支間的檔案差異 diff files in two branches](https://matthung0807.blogspot.com/2019/11/git-diff-files-in-two-branches.html)
+- [分支](https://git-scm.com/docs/git-diff#Documentation/git-diff.txt-Comparingbranches)
 
 ### 正規表達式
 
