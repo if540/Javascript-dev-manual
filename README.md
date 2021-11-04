@@ -33,6 +33,8 @@ Javascript 開發手冊
 
 [i18next](https://www.i18next.com/)
 
+[candlestick-charts ](https://apexcharts.com/vue-chart-demos/candlestick-charts/basic/)
+
 ## GIT 版控
 
 - git merge [分支名] --no-ff [Day 13 - 你的就是我的 再談 git merge](https://ithelp.ithome.com.tw/articles/10222637)
