@@ -72,6 +72,9 @@ git diff master dev -- file/path
 
 # 查找完整路徑
 git ls-files
+
+# 檢示紀錄 (今天早上 9 點到 12 點之間所有的 Commit)
+git log --oneline --since="9am" --until="12am"
 ```
 
 GIT 學習文章
@@ -83,6 +86,7 @@ GIT 學習文章
 - [Git 比較不同分支間的檔案差異 diff files in two branches](https://matthung0807.blogspot.com/2019/11/git-diff-files-in-two-branches.html)
 - [分支 比對](https://git-scm.com/docs/git-diff#Documentation/git-diff.txt-Comparingbranches)
 - [使用 git rebase 避免無謂的 merge](https://ihower.tw/blog/archives/3843)
+- [檢視紀錄](https://gitbook.tw/chapters/using-git/log.html)
 
 ### 正規表達式
 
