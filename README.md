@@ -74,7 +74,6 @@ git diff master dev -- file/path
 git ls-files
 
 # 比較不同 merge commit
-
 git diff fc17405...ee2de56
 
 # 檢示紀錄 (今天早上 9 點到 12 點之間所有的 Commit)
