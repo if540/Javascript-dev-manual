@@ -73,6 +73,10 @@ git diff master dev -- file/path
 # 查找完整路徑
 git ls-files
 
+# 比較不同 merge commit
+
+git diff fc17405...ee2de56
+
 # 檢示紀錄 (今天早上 9 點到 12 點之間所有的 Commit)
 git log --oneline --since="9am" --until="12am"
 ```
