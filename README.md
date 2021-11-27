@@ -23,6 +23,8 @@ Javascript 開發手冊
 
 [採用 TypeScript 前你該考慮的十件事 | Jeremy Lu](https://youtu.be/EEdd8zov4-w?t=861) - xstate.js
 
+[XState Fundamentals with David Khourshid, Founder of Stately](https://www.youtube.com/watch?v=BJfeWEPBZXQ)
+
 [Awesome-WebAssembly-Applications](https://github.com/mcuking/Awesome-WebAssembly-Applications)
 
 [Learn Responsive Sizing with these 4 Simple Concepts](https://www.youtube.com/watch?v=j-tiO0gadeg)
