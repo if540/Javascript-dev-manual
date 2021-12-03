@@ -82,6 +82,12 @@ git diff fc17405...ee2de56
 git log --oneline --since="9am" --until="12am"
 ```
 
+```shell
+# 救回誤刪的 stash
+git fsck --unreachable
+git show <sha>
+```
+
 GIT 學習文章
 
 - [遠端數據庫託管與操作](https://awdr74100.github.io/2020-04-18-git-remote/)
@@ -92,6 +98,7 @@ GIT 學習文章
 - [分支 比對](https://git-scm.com/docs/git-diff#Documentation/git-diff.txt-Comparingbranches)
 - [使用 git rebase 避免無謂的 merge](https://ihower.tw/blog/archives/3843)
 - [檢視紀錄](https://gitbook.tw/chapters/using-git/log.html)
+- [救回誤刪的 stash1](https://www.jianshu.com/p/ae1987efec61)、[救回誤刪的 stash2](https://zhuanlan.zhihu.com/p/28948567)
 
 ### 正規表達式
 
