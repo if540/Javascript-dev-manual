@@ -136,3 +136,10 @@ module.exports = {
 環境設定參考:
 
 - [jest build test env](https://titangene.github.io/article/jest-build-test-env.html)
+
+### Server 參考：
+
+- [litespeedtech](https://litespeedtech.com/)
+- [nss](https://www.nss.com.tw/wordpresshosting/)
+- [網易資訊](https://wanteasy.com.tw/litespeed-web-server.html)
+- [LiteSpeed 主機架站，最簡單有效的速度優化方式](https://kamadiam.com/litespeed-web-server-hosting/)
