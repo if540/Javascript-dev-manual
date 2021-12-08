@@ -37,6 +37,8 @@ Javascript 開發手冊
 
 [candlestick-charts ](https://apexcharts.com/vue-chart-demos/candlestick-charts/basic/)
 
+[deck-of-cards](https://github.com/deck-of-cards)
+
 ## GIT 版控
 
 - git merge [分支名] --no-ff [Day 13 - 你的就是我的 再談 git merge](https://ithelp.ithome.com.tw/articles/10222637)
