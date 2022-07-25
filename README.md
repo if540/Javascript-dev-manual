@@ -3,6 +3,8 @@ Javascript 開發手冊
 
 > 不要問我標準答案是什麼，過程中有問題會跟你互動。 - 川升 總經理
 
+[the SOLID](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+
 [30secondsofcode](https://www.30secondsofcode.org/)
 
 [Flexbox佈局中不為人知的細節](https://juejin.cn/post/6938292463605907492)
