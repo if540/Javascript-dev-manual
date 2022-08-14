@@ -41,6 +41,8 @@ Javascript 開發手冊
 
 [deck-of-cards](https://github.com/deck-of-cards)
 
+[前端收藏，常用在線圖片網站](https://juejin.cn/post/7041382036145176583#heading-9)
+
 ## GIT 版控
 
 - git merge [分支名] --no-ff [Day 13 - 你的就是我的 再談 git merge](https://ithelp.ithome.com.tw/articles/10222637)
