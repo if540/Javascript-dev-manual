@@ -52,6 +52,7 @@ Javascript 開發手冊
 - git remote update -p [同步遠端分支](https://zlargon.gitbooks.io/git-tutorial/content/remote/delete_branch.html)，並且移除過時的遠端分支
 - git pull origin master 把遠端的 master 內容更新到所在分支上
 - git pull . master 把本機的 master 內容更新到所在分支上
+- [合併多個 commit](https://dev.to/pb/git-squash-simplified-3ba1)
 
 ```shell
 # gitlab 載回分支
@@ -73,6 +74,9 @@ git pull origin master
 
 # cherry-pick 撿回某 commit 放到暫存不直接 commit
 git cherry-pick 6a498ec --no-commit
+
+# 合併多個 commit 為一個
+git rebase -i HEAD~N
 ```
 
 ```shell
