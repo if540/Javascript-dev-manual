@@ -3,6 +3,10 @@ Javascript 開發手冊
 
 > 不要問我標準答案是什麼，過程中有問題會跟你互動。 - 川升 總經理
 
+[如何設計一個屬性面板](https://zhuanlan.zhihu.com/p/481756755)
+
+[基於設計稿識別的可視化低程式碼系統實踐](https://segmentfault.com/a/1190000042292787)
+
 [前端工程師面試問題集](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese-traditional/)
 
 [the SOLID](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
