@@ -3,6 +3,8 @@ Javascript 開發手冊
 
 > 不要問我標準答案是什麼，過程中有問題會跟你互動。 - 川升 總經理
 
+[[Javascript] 初探Regex 正規表達式](https://moojing.medium.com/javascript-%E5%88%9D%E6%8E%A2regex-%E6%AD%A3%E8%A6%8F%E8%A1%A8%E9%81%94%E5%BC%8F-1da2f4d94795)
+
 [如何設計一個屬性面板](https://zhuanlan.zhihu.com/p/481756755)
 
 [基於設計稿識別的可視化低程式碼系統實踐](https://segmentfault.com/a/1190000042292787)
