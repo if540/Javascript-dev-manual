@@ -7,7 +7,10 @@ Javascript 開發手冊
 
 [Vue3 深入源碼](https://www.bilibili.com/video/BV1NB4y157w3?p=5)
 
- - [認識vnode中的shapeFlag和patchFlag屬性](https://juejin.cn/post/7148797544418508808)
+ - 最佳化手段之一
+ 
+   - [認識vnode中的shapeFlag和patchFlag屬性](https://juejin.cn/post/7148797544418508808)
+   - [認識Block](https://juejin.cn/post/7145385746365415455) - creatBlock 過程中將有 pathFlag VNode 蒐集至動態子集，響應比對只需要對動態子集進行更新
 
 
 ## JS
