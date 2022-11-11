@@ -3,9 +3,15 @@ Javascript 開發手冊
 
 > 不要問我標準答案是什麼，過程中有問題會跟你互動。 - 川升 總經理
 
-[Vue3 源碼深入](https://www.bilibili.com/video/BV1NB4y157w3?p=5)
+## Vue3 深入源碼系
+
+[Vue3 深入源碼](https://www.bilibili.com/video/BV1NB4y157w3?p=5)
+
+ - [認識vnode中的shapeFlag和patchFlag屬性](https://juejin.cn/post/7148797544418508808)
 
 [線上簡歷開源項目](https://github.com/huajian-pro/resume-design)
+
+## JS
 
 [[Javascript] 初探Regex 正規表達式](https://moojing.medium.com/javascript-%E5%88%9D%E6%8E%A2regex-%E6%AD%A3%E8%A6%8F%E8%A1%A8%E9%81%94%E5%BC%8F-1da2f4d94795)
 
