@@ -132,6 +132,18 @@ GIT 學習文章
 - [檢視紀錄](https://gitbook.tw/chapters/using-git/log.html)
 - [救回誤刪的 stash1](https://www.jianshu.com/p/ae1987efec61)、[救回誤刪的 stash2](https://zhuanlan.zhihu.com/p/28948567)
 
+### Emmet
+- [VScodeConfig](https://vscode.dev.org.tw/docs/editor/emmet#_how-to-expand-emmet-abbreviations-and-snippets)
+- [如何使用 emmet variables](https://chunchun0401.medium.com/vscode-%E8%A8%AD%E5%AE%9A-js-%E7%9A%84-emmet-609bcadfa40c)
+
+```json
+"emmet.variables": {
+  "lang": "de",
+  "charset": "UTF-16"
+}
+```
+
+
 ### 正規表達式
 
 ```js
