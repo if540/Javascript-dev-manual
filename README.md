@@ -97,6 +97,13 @@ git cherry-pick 6a498ec --no-commit
 
 # 合併多個 commit 為一個
 git rebase -i HEAD~N
+
+# 撤銷最近一次的 commit 並保留修改
+git reset --soft HEAD~1
+
+# 撤銷多次 commit，將 HEAD~1 改為 HEAD~n，其中 n 是你想要撤銷的 commit 次數
+git reset --soft HEAD~2
+
 ```
 
 ```shell
